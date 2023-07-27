@@ -1,4 +1,3 @@
-console.log('Java script is added!')
 
 
 
